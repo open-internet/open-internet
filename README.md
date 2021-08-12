@@ -2,7 +2,7 @@
 
 ## What is this all about?
 
-  Internet, as we know of, is no longer open or accessible without selling one's privacy to huge corporations. With this organization, I aim to collect and contribute open source technologies from search engines to decentralized social media.
+Internet, as we know of, is no longer open or accessible without selling one's privacy to huge corporations. With this organization, I aim to collect and contribute open source technologies from search engines to decentralized social media.
 
 ## Aim
 
@@ -11,4 +11,5 @@
 3. Decentralized.
 
 ## Contribution
-	If you are an open-source developer, you can submit pull requests to list and categorize your creation in this organization.
+
+If you are an open-source developer, you can submit pull requests to list and categorize your creation in this organization.
